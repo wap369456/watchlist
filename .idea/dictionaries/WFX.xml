@@ -5,9 +5,11 @@
       <w>endblock</w>
       <w>endfor</w>
       <w>imdb</w>
+      <w>initdb</w>
       <w>mahjong</w>
       <w>sqlalchemy</w>
       <w>totoro</w>
+      <w>usedto</w>
     </words>
   </dictionary>
 </component>
